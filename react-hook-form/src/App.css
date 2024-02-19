@@ -1,0 +1,34 @@
+body{
+  background: #101010;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+}
+
+.container{
+  display: flex;
+  
+
+}
+
+
+label{
+  display: block;
+}
+
+input, select{
+  width: 100%;
+}
+
+form{
+  
+}
+
+span{
+
+  color: tomato;
+  font-size: 13px;
+}
